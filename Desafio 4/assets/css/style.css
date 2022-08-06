@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg__green{
+    background-color: #28a745;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 20em;
+    object-fit: cover;
+}
+
+.card-title{
+    font-size: 20pt;
+    color: #212529;
+    font-weight: 300;
+}
+
+.card-subtitle{
+    font-size: 13pt;
+    color: #707070;
+    font-weight: 300;
+    
+}
+
+.card-text{
+    color: #707070;
+    font-weight: 300;
+    font-size: 13pt;
+}
+
+.line{
+    border-bottom: 1px solid #707070A0;
+}
+
+.textpricefirst{
+    color:#707070;
+    font-weight: 300;
+    font-size: 16pt;
+}
+
+.textpricesecond{
+    color: #28a745;
+    font-weight: 500;
+    font-size: 20pt;
+}
+
+.form__title{
+    font-weight: 300;
+    font-size: 21pt;
+}
